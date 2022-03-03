@@ -10,7 +10,7 @@ body{
   }
 /* I changed this .navigation rule.  */
   .navigation {
-    width: 100%;
+    width: 100% auto; 
     border-bottom: solid #aca69a 1px;
     padding: 30px;
     overflow-y: auto;
