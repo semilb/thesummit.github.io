@@ -1,0 +1,83 @@
+.nav-link {
+    text-decoration: none; 
+  }
+  
+  .nav-link:hover {
+    color: #5495ff; 
+    text-decoration: underline;
+  }
+  
+  a {
+    color: #2176FF; 
+    text-decoration: underline; 
+    cursor: pointer; 
+  
+  }
+  
+  a:hover {
+    color: #a67d2d;
+    text-decoration: none; 
+  
+  }
+  
+  .btn {
+    font-family: 'Raleway', sans-serif;
+    background-color: #2176FF;
+    border: none;
+    border-radius: 10px;  
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    text-transform: uppercase;
+    margin-top: 10px; 
+  }
+  
+  .btn:hover {
+    margin-top: 5px;
+    box-shadow: 3px 5px;
+    color: darkgray;
+    cursor: pointer; 
+  }
+  
+  .btn:active { 
+    margin-top: 15px;
+    margin-bottom: 16px; 
+    box-shadow: 1px 2px; 
+    background-color: #fff;
+    color: #2176FF; 
+  }
+  
+  .activity{
+    background-color: #2176FF;
+    color: white;
+    font-family: 'Amatic SC',sans-serif;
+    font-weight: 500px;
+    text-transform: uppercase;
+    margin: 10px;
+    padding: 15px 32px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+  
+  }
+
+  .activity:hover {
+   
+    color: darkgray;
+    margin-top: 5px; 
+    box-shadow: 3px 5px;
+    cursor: pointer; 
+  }
+  
+  .activity:active {
+    margin-top: 15px;
+    margin-bottom: 16px; 
+    box-shadow: 1px 2px;
+    background-color: #fff;
+    color: #2176FF; 
+  }
